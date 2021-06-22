@@ -15,4 +15,4 @@ Test your code in Node.JS CLI
 ## Exercise 3 (Optional)
 
 
-![](exercise.PNG)
+![](exercise3.PNG)
