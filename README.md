@@ -1,1 +1,1 @@
-# cs477
+# This is Lab solutions for cs477 course
