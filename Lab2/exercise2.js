@@ -1,3 +1,5 @@
+/* eslint-disable id-length */
+/* eslint-disable quotes */
 "use strict";
 
 /* Create a web server that's going to send a response of big image (bigger than 3MB)
@@ -13,8 +15,8 @@ const server = http.createServer();
 
 server.on('request', function (req, res) {
     res.writeHead(200, { 'Content-Type': 'image/jpeg' });
-    let image = fs.readFileSync('./tiles.jpg');
+    let image = fs.readFileSync('./pic.jpg');
     res.end(image, 'binary');
 });
 
-server.listen(8080);
+server.listen(3000);
