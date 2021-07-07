@@ -7,13 +7,15 @@
 
 
 
+#### The final UI looks like this:-
+![](Lab6A.PNG)
+
+
 #### You will get access to the website after generating token :-
 
  ![](jwt.PNG)
 
 
-#### The final UI looks like this:-
-![](lab6A.PNG)
 
 #### The requirements for the assignment was :-
 
