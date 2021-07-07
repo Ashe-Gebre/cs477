@@ -1,6 +1,7 @@
-# This is a solution for LAB 5 assignment solutions.
+# This is a solution for LAB 6 assignment solutions.
 
 ### The client and the server side folders with their js, css and html files are attached.
+### The login is added on top of Lab 5 here
 
 
 
