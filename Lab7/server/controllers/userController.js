@@ -1,6 +1,6 @@
 "use strict";
 
-cconst users = [];
+const users = [];
 
 module.exports = class User {
     constructor(username, password, role) {
